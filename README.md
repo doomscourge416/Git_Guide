@@ -9,7 +9,7 @@ LICENSE: [Apache 2.0](./LICENSE)
 
 1. [Введение](./introduction.md)
 2. [Начало работы с Git](./gitstartup.md)
-3. [Команды add](./gitcommands.md)
+3. [Команды Git](./gitcommands.md)
 4. 
 
 
