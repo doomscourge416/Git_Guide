@@ -8,7 +8,7 @@ LICENSE: [Apache 2.0](./LICENSE)
 ## Содержание
 
 1. [Введение](./introduction1.md)
-2. [Подготовка к работе](./gitstartup2.md)
+2. [Подготовка к работе](./gitinstall.md)
 3. [Основы работы с Git](./gitessentials3.md)
 4. [Команды Git](./gitcommands4.md)
  
