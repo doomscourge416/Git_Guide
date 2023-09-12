@@ -7,10 +7,11 @@ LICENSE: [Apache 2.0](./LICENSE)
  
 ## Содержание
 
-1. [Введение](./introduction.md)
-2. [Начало работы с Git](./gitstartup.md)
-3. [Команды Git](./gitcommands.md)
-4. 
+1. [Введение](./introduction1.md)
+2. [Подготовка к работе](./gitstartup2.md)
+3. [Основы работы с Git](./gitessentials3.md)
+4. [Команды Git](./gitcommands4.md)
+ 
 
 
 ---
