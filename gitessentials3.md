@@ -8,7 +8,7 @@
 
 #### Для этого мы можем просто перенести туда готовый файл, для примера я создам файл *example.md*. 
 
-![example.md](./photos/exapmpleFile.png)
+![example.md](./photos/exampleFile.png)
 
 Теперь я отредактирую этот файл и добавлю в него текст ***"Hello, Student"***
 
